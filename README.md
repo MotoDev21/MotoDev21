@@ -4,7 +4,37 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-mmoottoo21/mmoottoo21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Hi there 👋
+
+
+About Me
+🔭 I’m currently freelancing and chasing da money
+🌱 I’m currently learning .NET Reversing and MSIL.
+⚡ Fun fact: I <3 Cars/Coding/Ass.
+📫 How to reach me: Telegram: @Turbski
+Programming Languages, Libraries, and Frameworks
+CSharp
+
+Node.js
+
+DSharpPlus
+
+ASPNET
+
+JavaScript
+
+ 
+Tools
+dnSpy
+
+SublimeText
+
+Postman
+
+MongoDB
+
+LiteDB
+
+ 
+Statistics
