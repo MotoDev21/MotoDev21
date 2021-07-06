@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="DSharpPlus" width="35px" src="https://dsharpplus.github.io/logo.png" />
 <img align="left" alt="ASPNET" width="35px" src="https://adexin.com/wp-content/uploads/2016/08/net-logo.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<br>
----
+
 
 ### Tools
 <img align="left" alt="dnSpy" width="35px" src="https://cdn.discordapp.com/attachments/804073268809826338/843168358497386576/dnSpy.png" />
