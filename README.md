@@ -50,9 +50,6 @@ Here are some ideas to get you started:
  
 ---
 
-### Statistics
-<img align="left" alt="Twin Turbo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=turbski&theme=dark&show_icons=true" />
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbski&theme=dark&layout=compact" />
 
  
  
