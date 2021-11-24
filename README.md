@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 <img align="left" alt="VSCode" width="35px" src="https://www.clipartmax.com/png/full/240-2409485_open-visual-studio-code-logo.png" />
 <img align="left" alt="Bootstrap" width="35px" src="https://www.pngkit.com/png/full/954-9549328_bootstrap-featured-image-bootstrap-3-logo-png.png" />
 <img align="left" alt="ChromeDeveloper" width="35px" src="https://clipart-best.com/img/chrome-logo/chrome-logo-clip-art-16.png" />
+<img align="left" alt="IdaPro" width="35px" src="https://pbs.twimg.com/media/DWABVxZVAAY5FZe.jpg" />
+<img align="left" alt="HexWork" width="35px" src="https://diakov.net/uploads/posts/2016-03/1457280977_hex_workshop.png" />
