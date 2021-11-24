@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in reverse engineering, game cheat and web site!
 - 🌱 I’m currently learning Moscow Power Engineering Institute (MPEI)
 - 💞️ I’m looking to collaborate on Information Security Service (Russia)
-- 📫 How to reach me: Telegram: @HasseMoto
+- 📫 How to reach me Telegram: @HasseMoto
 ---
 
 ### Programming Languages, Libraries, and Frameworks
@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 ---
 
 ### Tools
-<img align="left" alt="dnSpy" width="35px" src="https://cdn.discordapp.com/attachments/804073268809826338/843168358497386576/dnSpy.png" />
 <img align="left" alt="SublimeText" width="35px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
-<img align="left" alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="LiteDB" width="35px" src="https://www.litedb.org/images/logo_litedb.svg"
- />  
+<img align="left" alt="VisualStudio" width="35px" src="https://surpreem.com/wp/wp-content/uploads/2019/06/visual_studio_2019_icon.png" />
+<img align="left" alt="VSCode" width="35px" src="https://www.clipartmax.com/png/full/240-2409485_open-visual-studio-code-logo.png" />
+<img align="left" alt="Bootstrap" width="35px" src="https://www.pngkit.com/png/full/954-9549328_bootstrap-featured-image-bootstrap-3-logo-png.png" />
+<img align="left" alt="ChromeDeveloper" width="35px" src="https://clipart-best.com/img/chrome-logo/chrome-logo-clip-art-16.png" />
