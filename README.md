@@ -8,11 +8,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 👋 Hi, I’m @mmoottoo21
-- 👀 I’m interested in reverse engineering, game cheat and web site!
-- 🌱 I’m currently learning Moscow Power Engineering Institute (MPEI)
-- 💞️ I’m looking to collaborate on Information Security Service (Russia)
-- 📫 How to reach me Telegram: @HasseMoto
+- 👋 Hi
 ---
 
 ### Programming Languages, Libraries, and Frameworks
