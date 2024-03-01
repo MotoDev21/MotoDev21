@@ -1,16 +1,11 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=mmoottoo21&color=orange)
-<!--
-**Turbski/Turbski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
 
 ### About Me
 - 👋 Hi
 ---
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
 ### Programming Languages, Libraries, and Frameworks
 <img align="left" alt="CSharp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="35px" src="https://miro.medium.com/max/1200/1*C4SccvODYv4SBypJFmYAEw.png" />
