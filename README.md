@@ -5,7 +5,6 @@
 ### About Me
 - 👋 Hi
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
 ### Programming Languages, Libraries, and Frameworks
 <img align="left" alt="CSharp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="35px" src="https://miro.medium.com/max/1200/1*C4SccvODYv4SBypJFmYAEw.png" />
@@ -26,3 +25,5 @@
 <img align="left" alt="ChromeDeveloper" width="35px" src="https://clipart-best.com/img/chrome-logo/chrome-logo-clip-art-16.png" />
 <img align="left" alt="IdaPro" width="35px" src="https://pbs.twimg.com/media/DWABVxZVAAY5FZe.jpg" />
 <img align="left" alt="HexWork" width="35px" src="https://diakov.net/uploads/posts/2016-03/1457280977_hex_workshop.png" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MotoDev21&show_icons=true&locale=en" alt="MotoDev21" /></p>
