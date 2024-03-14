@@ -32,9 +32,7 @@
 ### Statistic
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MotoDev21&show_icons=true&locale=en" alt="MotoDev21" /></p>
 
-
-
-![400_1200_trans_65f2b059eaebd](https://github.com/MotoDev21/MotoDev21/assets/86869673/e39821ef-6172-48ef-b2ea-b6740bd63166)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MotoDev21)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
