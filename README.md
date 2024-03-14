@@ -34,5 +34,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MotoDev21)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MotoDev21)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotoDev21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
